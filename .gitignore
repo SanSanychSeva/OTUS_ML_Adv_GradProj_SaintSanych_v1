@@ -2,8 +2,10 @@
 .vscode/
 .env/
 .jupyter/
+.src/__pycache__/
 
 
 data/
 py_obj_saves/
 notebooks/.ipynb_checkpoints/
+main.py
