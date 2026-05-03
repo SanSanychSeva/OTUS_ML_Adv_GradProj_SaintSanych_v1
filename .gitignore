@@ -1,6 +1,6 @@
 .venv/
 .vscode/
-.env/
+.env
 
 data/
 py_obj_saves/
