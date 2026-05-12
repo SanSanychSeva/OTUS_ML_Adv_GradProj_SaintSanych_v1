@@ -1,3 +1,0 @@
-from src.helpful_functions import check_if_all_numbers_present_for_column
-
-check_if_all_numbers_present_for_column(1,2)
